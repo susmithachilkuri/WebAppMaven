@@ -8,6 +8,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>APP-Testing-1</h1>
+        <h1>APP-Testing</h1>
     </body>
 </html>
